@@ -1,0 +1,1 @@
+Chip '7430' is a 8-inputs-NAND IC.
